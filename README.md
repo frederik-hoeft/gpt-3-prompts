@@ -12,3 +12,11 @@ This texthasbeen copied from a pdf fileand lacks properspacing. Replacewith your
 Output:
 
 ```
+
+## Proof something
+
+```latex
+Proof that $something = somethingElse$
+
+\begin{proof}
+```
